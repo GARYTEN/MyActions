@@ -10,6 +10,7 @@
 
 ## 使用教程
 
+
 1. 直接fork走
 2. 再在`Settings`-`Secrets`里面添加`JD_COOKIE`
 3. 多条cookie用`&`隔开，支持无数条cookie
